@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'iSans';
-  src: url('fonts/InstrumentSans.ttf') format('truetype');
+  src: url('/fonts/InstrumentSans.ttf') format('truetype');
   font-display: swap;
 }
 
 @font-face {
   font-family: 'Instrument Serif';
-  src: url('fonts/InstrumentSerif-Italic.ttf') format('truetype');
+  src: url('/fonts/InstrumentSerif-Italic.ttf') format('truetype');
   font-style: italic;
   font-display: swap;
 }
